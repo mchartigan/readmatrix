@@ -1,2 +1,2 @@
 # readmatrix
-Alternative readmatrix MATLAB function for pre-2019 releases.
+Alternative `readmatrix.m` MATLAB function for pre-2019 releases.
